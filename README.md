@@ -16,10 +16,11 @@ Langs & Techs:
 
 ## Projects ##
 Publishing soon:
-- js.@es6-nkbitfield (class)
-- js.@es6-nklog (function, class)
-- js.@nodejs21-nkbotd (package) - bot daemon (addation for nkbotm)
-- js.@nodejs21-nkbotm (package) - modular bot for >1 services;
-- js.@nodejs21-nkmodw (package) - wrapper for modules for using some modules from cmdline;
-- js.@nodejs21-qash (package) - `question-answer shell` utility; uses for detect (custum preprocessors) formal language, natural language and programming language
-- js.@nodejs21-@discord.js14-@nkmodw-discord.js_utils
+- `js.@nodejs21-conexec` (module!=package) - execute any commands in console (#inreview -> renaming to `js.@nodejs21-nkcmdline`); sync/async exec, args parsing, etc
+- `js.@es6-nkbitfield` (class)
+- `js.@es6-nklog` (function, class)
+- `js.@nodejs21-nkbotd` (package) - bot daemon (addation for nkbotm)
+- `js.@nodejs21-nkbotm` (package) - modular bot for >1 services;
+- `js.@nodejs21-nkmodw` (package) - wrapper for modules for using some modules from cmdline;
+- `js.@nodejs21-qash (package)` - question-answer shell` utility; uses for detect (custum preprocessors) formal language, natural language and programming language
+- `js.@nodejs21-@discord.js14-@nkmodw-discord.js_utils` (package) - utils and static objects and must have style for discord.js>=14

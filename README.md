@@ -1,21 +1,9 @@
-## Whoami ##
-indev...; like this readme
-
+## About ##
+<a href="https://github.com/slnknrr/slnknrr/blob/main/README.en-GB.md">🇬🇧 English</a> | <a href="https://github.com/slnknrr/slnknrr/blob/main/README.ru-RU.md">🇷🇺 Русский</a>
 ## Programming language suggestions ##
 <a href="https://github.com/slnknrr/ecmascript">ECMAScript</a> updated at 2023-12-09 ~19:50 (UTC+00:00)
 
-## Abilities & Skills ##
-Langs & Techs:
-- js.@node - JavaScript (nodejs)
-- ps1.@pwsh - PowerShell
-- java.@jdk - Java
-- bat.@cmd - winbatch (Batchfile on GitHub)
-- sh.@bash - Bash (Shell on GitHub)
-- zsh.@zsh - Zsh (Shell on GitHub)
-- os.@onescript - OneScript
-
-## Projects ##
-Publishing soon:
+## Publishing soon ##
 - `js.@nodejs21-conexec` (module!=package) - execute any commands in console (#inreview -> renaming to `js.@nodejs21-nkcmdline`); sync/async exec, args parsing, etc
 - `js.@es6-nkbitfield` (class)
 - `js.@es6-nklog` (function, class)

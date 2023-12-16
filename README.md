@@ -1,3 +1,5 @@
+## <a href="https://codeberg.org/slnknrr">Now I using Codeberg</a> <- follow this;
+
 ## <a href="https://slnknrr.github.io/">About</a> ##
 <a href="https://github.com/slnknrr/slnknrr/blob/main/README.en-GB.md">🇬🇧 English</a> | 
 <a href="https://github.com/slnknrr/slnknrr/blob/main/README.ru-RU.md">🇷🇺 Русский</a>
